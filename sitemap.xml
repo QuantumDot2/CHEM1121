@@ -64,12 +64,12 @@
 		<loc>http://chem1121.ssuchemistry.com/worksheets/index.html</loc>
 	</url>
 	<url>
-		<loc>http://chem1121.ssuchemistry.com/books/books.html</loc>
-	</url>
-	<url>
 		<loc>http://chem1121.ssuchemistry.com/ti30/ti30.html</loc>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/links/links.html</loc>
+	</url>
+	<url>
+		<loc>http://chem1121.ssuchemistry.com/links/books/books.html</loc>
 	</url>
 </urlset>

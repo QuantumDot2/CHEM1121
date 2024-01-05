@@ -2,12 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/index.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/info/info.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/chapters/chapters.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/chapters/chapter1/chapter1.html</loc>
@@ -55,21 +58,27 @@
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/animations/animations.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/animations/chapter3/chapter3.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/animations/animations/chapter4.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/animations/animations/chapter5.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/animations/chapter8/chapter8.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/animations/chapter9/chapter9.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/worksheets/index.html</loc>
@@ -77,11 +86,14 @@
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/ti30/ti30.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/links/links.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 	<url>
 		<loc>http://chem1121.ssuchemistry.com/links/books/books.html</loc>
+		<lastmod>2024-01-04</lastmod>
 	</url>
 </urlset>

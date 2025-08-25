@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://chem1121.ssuchemistry.com/index.html</loc>
+		<loc>https://chem1121.ssuchemistry.com/</loc>
+	</url>
+	<url>
+		<loc>https://chem1121.ssuchemistry.com/EZ-Proxy/SSU_EZ-Proxy.html</loc>
 	</url>
 	<url>
 		<loc>https://chem1121.ssuchemistry.com/info/info.html</loc>
@@ -61,13 +64,16 @@
 		<loc>https://chem1121.ssuchemistry.com/animations/chapter9/chapter9.html</loc>
 	</url>
 	<url>
-		<loc>https://chem1121.ssuchemistry.com/worksheets/index.html</loc>
+		<loc>https://chem1121.ssuchemistry.com/worksheets/</loc>
 	</url>
 	<url>
 		<loc>https://chem1121.ssuchemistry.com/ti30/ti30.html</loc>
 	</url>
 	<url>
-		<loc>https://chem1121.ssuchemistry.com/links/links.html</loc>
+		<loc>https://chem1121.ssuchemistry.com/links/links_top_level.html</loc>
+	</url>
+	<url>
+		<loc>https://chem1121.ssuchemistry.com/links/links/links.html</loc>
 	</url>
 	<url>
 		<loc>https://chem1121.ssuchemistry.com/links/books/books.html</loc>

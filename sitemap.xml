@@ -67,9 +67,6 @@
 		<loc>https://chem1121.ssuchemistry.com/worksheets/</loc>
 	</url>
 	<url>
-		<loc>https://chem1121.ssuchemistry.com/ti30/ti30.html</loc>
-	</url>
-	<url>
 		<loc>https://chem1121.ssuchemistry.com/links/links_top_level.html</loc>
 	</url>
 	<url>
@@ -77,5 +74,8 @@
 	</url>
 	<url>
 		<loc>https://chem1121.ssuchemistry.com/links/books/books.html</loc>
+	</url>
+	<url>
+		<loc>https://chem1121.ssuchemistry.com/ti30/ti30.html</loc>
 	</url>
 </urlset>
